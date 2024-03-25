@@ -1,0 +1,20 @@
+{
+  "name": "darkgeem",
+  "displayName": "Darkgeem",
+  "description": "A dark theme based on Vim colorscheme",
+  "version": "1.0.0",
+  "publisher": "darkgeem",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darkgeem",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkgeem-color-theme.json"
+      }
+    ]
+  }
+}
