@@ -16,5 +16,5 @@ jobs:
       - name: Publish VS Code extension artifact
         uses: actions/upload-artifact@v3
         with:
-            name: vscode-theme-darkgeem
+            name: vscode-theme-darkgeem.vsix
             path: ${{ steps.package.outputs.packagePath }}
