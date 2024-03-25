@@ -1,7 +1,7 @@
 {
-  "name": "darkgeem",
-  "displayName": "Darkgeem",
-  "description": "A dark theme based on Vim colorscheme",
+  "name": "vscode-theme-darkgeem",
+  "displayName": "VSCode Theme: Darkgeem",
+  "description": "A dark theme based on my Vim colorscheme",
   "version": "1.0.0",
   "publisher": "darkgeem",
   "engines": {
